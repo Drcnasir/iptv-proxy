@@ -1,0 +1,8 @@
+#EXTM3U  
+
+#EXTINF:-1,Sky Racing 1
+https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
+#EXTINF:-1,Sky Racing 2
+https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
+#EXTINF:-1,Sky Thoroughbred Central
+https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/stcsd.m3u8
